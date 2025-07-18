@@ -1,7 +1,5 @@
 #ifndef BST_H
 #define BST_H
-
-
 #include <iostream>
 using namespace std;
 struct TreeNode
@@ -15,7 +13,6 @@ struct TreeNode
         left = right= NULL;
     }
 };
-
 struct BinarySearchTree
 {
     TreeNode* root= NULL;
