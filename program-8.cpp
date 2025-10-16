@@ -31,4 +31,11 @@ int main ()
     p.display(42, "Answer");
     return 0;
 
+
 }
+
+// # OUTPUT :
+// Integer: 10
+// Double: 3.14
+// String: Hello
+// Integer: 42, String: Answer
