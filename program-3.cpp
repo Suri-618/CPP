@@ -13,4 +13,10 @@ int main () {
     cout << "Global x = " << ::x << endl;
     cout << "Namespace x = " << mySpace::x << endl;
     return 0;
+
 }
+
+// # OUTPUT:
+// Local x = 10
+// Global x = 50
+// Namespace x = 100
