@@ -27,4 +27,17 @@ int main() {
     Counter c4;
     cout << "Program ends..." << endl;
     return 0;
+
 }
+
+// # OUTPUT:
+// Program starts...
+// Object created. Total objects: 1
+// Object created. Total objects: 2
+// Object created. Total objects: 3
+// Object destroyed. Remaining objects: 2
+// Object destroyed. Remaining objects: 1
+// Object created. Total objects: 2
+// Program ends...
+// Object destroyed. Remaining objects: 1
+// Object destroyed. Remaining objects: 0
