@@ -36,4 +36,13 @@ int main() {
     }
 
     return 0;
+
 }
+
+// # OUTPUT:
+// What's your current mood?
+// 1. Happy
+// 2. Sad
+// 3. Excited
+// Enter your choice (1-3): 2
+// It's okay to have a down day
