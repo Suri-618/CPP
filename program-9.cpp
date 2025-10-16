@@ -16,3 +16,7 @@ int main () {
     cout << "Volume with all dimensions (length=5, width=4, depth=3): " << vc.calculateVolume(5, 4, 3) << endl;
     return 0;
 }
+
+// # OUTPUT:
+// Volume with default depth (length=5, width=4): 20
+// Volume with all dimensions (length=5, width=4, depth=3): 60
