@@ -33,4 +33,9 @@ int main()
     car1.setModel("Tesla Model 3").setYear(2023);
     car1.showDetails(); 
     return 0;
+
 }
+
+// # OUTPUT:
+// Model: Tesla Model 3
+// Year: 2023
