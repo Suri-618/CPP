@@ -38,4 +38,11 @@ int main() {
         cout << "Withdrawal failed.\n";
     acc.display();
     return 0;
+
 }
+
+// # OUTPUT :
+// Withdrawal successful.
+// Name: Nanda
+// Account No: 126
+// Balance: 13000
