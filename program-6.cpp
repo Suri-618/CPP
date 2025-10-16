@@ -25,4 +25,9 @@ int main() {
     p.displayInfo();
 
     return 0;
+
 }
+
+// # OUTPUT:
+// Name: Nanda
+// Age: 20
