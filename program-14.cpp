@@ -29,4 +29,9 @@ int main() {
     cout << "c3 (c1 - c2): ";
     c3.show();
     return 0;
+
 }
+
+// # OUTPUT:
+// c1 after increment: Count: 11
+// c3 (c1 - c2): Count: 7
