@@ -25,4 +25,10 @@ int main() {
     original.show();
     copy.show();
     return 0;
+
 }
+
+// # OUTPUT :
+// Copy constructor called!
+// Title: C++ Basics, Pages: 120
+// Title: C++ Basics, Pages: 120
