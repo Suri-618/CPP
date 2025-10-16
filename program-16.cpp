@@ -105,4 +105,26 @@ int main() {
     s.draw();
     s.area();
     return 0;
+
 }
+
+// # OUTPUT:
+// Single Inheritance:
+// Device powered on
+// Laptop lid opened
+
+// Multilevel Inheritance:
+// Machine starting...
+// Computer processing data
+// Developer debugging code
+
+// Multiple Inheritance:
+// Painter painting art
+// Musician playing music
+// Artist creating masterpiece
+
+// Hierarchical Inheritance:
+// Drawing shape
+// Area of circle calculated
+// Drawing shape
+// Area of square calculated
