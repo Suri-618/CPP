@@ -20,6 +20,9 @@ void displayBookDetails(const Book& b) {
 int main() {
     Book myBook("C++ Programming", 99.99);
     displayBookDetails(myBook);
-
     return 0;
 }
+
+// # OUTPUT:
+// Book Title: C++ Programming
+// Price: $99.99
