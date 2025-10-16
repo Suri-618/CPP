@@ -30,6 +30,11 @@ int main() {
     cout << "Value B: "; b.print();
     cout << "Total (A + B): "; total.print();
     cout << "Inverse of A: "; inverse.print();
-
     return 0;
 }
+
+// # OUTPUT:
+// Value A: 18.2 C
+// Value B: 5.8 C
+// Total (A + B): 24 C
+// Inverse of A: -18.2 C
