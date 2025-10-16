@@ -25,3 +25,9 @@ int main () {
 
     return 0;
 }
+
+ // OUTPUT:
+ //        Inside callByValue: 16
+ //        After callByValue: 6
+ //        Inside callByReference: 16
+ //        After callByReference: 16
