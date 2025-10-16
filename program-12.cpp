@@ -29,4 +29,11 @@ int main() {
     b3.volume();
 
     return 0;
+
 }
+
+
+// # OUTPUT:
+// Volume: 1
+// Volume: 27
+// Volume: 40
